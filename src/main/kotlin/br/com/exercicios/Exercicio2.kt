@@ -1,4 +1,4 @@
 package br.com.exercicios
 
-class Execicio2 {
+class Exercicio2 {
 }
